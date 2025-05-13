@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Link Saver Pro",
+  "version": "1.0",
+  "description": "A tool to save and organize your important links and websites",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["tabs"]
+}
